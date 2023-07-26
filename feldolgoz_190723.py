@@ -350,3 +350,5 @@ writer.close()
 # plt.title('Pie Chart for Energy Contributions')
 # plt.savefig(current_dir + "\\" + "diagram.png")
 # plt.show()
+
+# git test
