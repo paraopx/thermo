@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="check_tax_number" />
+          <option value="logic.employee.Entity" />
+          <option value="persistence.dm_entities.Entity" />
+          <option value="ValueError" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
