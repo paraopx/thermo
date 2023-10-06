@@ -27,6 +27,9 @@ trimolecular reaction:
 
 ## Example
 The code extracts thermodynamic data from output files, stores it in a txt file, and displays it on the terminal in the format below.
+
+![bh3nh3](https://github.com/paraopx/thermo/assets/117524398/8ee261e5-fc2d-4d47-866d-4f46ffbf00aa)
+
 ```
 Current file: bh3.out
 Temperature used in calculation: 298.15
@@ -136,7 +139,7 @@ deltaSrot%: 18.9%
 deltaSvib%: 6.2%
 ```
 
-![bh3nh3](https://github.com/paraopx/thermo/assets/117524398/8ee261e5-fc2d-4d47-866d-4f46ffbf00aa)
+
 
 
 ![nh3bh3_298](https://github.com/paraopx/thermo/assets/117524398/7a1eaa58-a0f4-4e92-a6bf-90fcfd509ed8)
