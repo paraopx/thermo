@@ -131,8 +131,8 @@ The absolute value of total entropy change: 42.848
 deltaStrans%: 74.9%
 deltaSrot%: 18.9%
 deltaSvib%: 6.2%
-</div>
-```
+</div> 
+
 
 ![bh3nh3](https://github.com/paraopx/thermo/assets/117524398/8ee261e5-fc2d-4d47-866d-4f46ffbf00aa)
 
