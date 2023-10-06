@@ -17,12 +17,16 @@ A brief description of what this project does and who it's for
 To run tests, run the following command
 
 ```bash
-  npm run test
+bimolecular reaction:
+  thermo_process_solv.py C:\..\files_location text_file_name.txt temperature first_reactant.out second_reactant.out product.out
+
+trimolecular reaction:
+  thermo_process_solv.py C:\..\files_location text_file_name.txt temperature first_reactant.out second_reactant.out third_reactant.out product.out
 ```
 
 
 ## Example
-
+The code extracts thermodynamic data from output files, storing the data in a txt file, and displays on the terminal.
 ```
 Current file: bh3.out
 Temperature used in calculation: 298.15
