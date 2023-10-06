@@ -23,8 +23,7 @@ To run tests, run the following command
 
 ## Example
 
-```html
-<div style="overflow-x: auto; white-space: nowrap;">
+
 Current file: bh3.out
 Temperature used in calculation: 298.15
 User-specified temperature and temperature used in calculation match!
@@ -107,18 +106,18 @@ Electronic_Energy_HighLevel: -83.2270962633
 Solvation_Energy: -83.1401415587
 
 deltaZeroPointCorrection: 5.9387 KCal/Mol
-deltaElectronic_Energy (Î”Îµ): -37.4148 KCal/Mol
-deltaElectronic_Energy_HighLevel (Î”Îµ'): -32.3551 KCal/Mol
-deltaSolvation_Energy (Î”Gsolv): -43.8131 KCal/Mol
+deltaElectronic_Energy (Δɛ): -37.4148 KCal/Mol
+deltaElectronic_Energy_HighLevel (Δɛ'): -32.3551 KCal/Mol
+deltaSolvation_Energy (ΔGsolv): -43.8131 KCal/Mol
 deltaSolvation_Corr (Î”Gsolv-corr): -6.3983 KCal/Mol
 deltaEtot: 4.7019 KCal/Mol
 delta(Etot+Electronic_Energy): -32.713 KCal/Mol
-deltaHcorr (Î”Hcorr): 4.1095 KCal/Mol
-delta(Hcorr+Electronic_Energy) (Î”H): -33.306 KCal/Mol
-delta(Hcorr+High_Electronic_Energy) (Î”H'): -28.2456 KCal/Mol
+deltaHcorr (ΔHcorr): 4.1095 KCal/Mol
+delta(Hcorr+Electronic_Energy) (ΔH): -33.306 KCal/Mol
+delta(Hcorr+High_Electronic_Energy) (ΔH'): -28.2456 KCal/Mol
 deltaGcorr: 15.296 KCal/Mol
-delta(Gcorr+Electronic_Energy) (Î”G): -22.1189 KCal/Mol
-delta(Electronic_Energy_HighLevel+Gcorr+Solvation_Corr) (Î”G'): -23.4574 KCal/Mol
+delta(Gcorr+Electronic_Energy) (ΔG): -22.1189 KCal/Mol
+delta(Electronic_Energy_HighLevel+Gcorr+Solvation_Corr) (ΔG'): -23.4574 KCal/Mol
 deltaStot: -0.0375 KCal/Mol-Kelvin
 T*deltaStot: -11.1869 KCal/Mol
 deltaStrans: -0.0321 KCal/Mol-Kelvin
@@ -131,7 +130,6 @@ The absolute value of total entropy change: 42.848
 deltaStrans%: 74.9%
 deltaSrot%: 18.9%
 deltaSvib%: 6.2%
-</div> 
 
 
 ![bh3nh3](https://github.com/paraopx/thermo/assets/117524398/8ee261e5-fc2d-4d47-866d-4f46ffbf00aa)
