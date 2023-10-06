@@ -1,2 +1,3 @@
 # thermo
-This is README
+## Usage
+code arg1 arg2
