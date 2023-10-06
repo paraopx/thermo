@@ -26,7 +26,7 @@ trimolecular reaction:
 
 
 ## Example
-The code extracts thermodynamic data from output files, storing the data in a txt file, and displays on the terminal.
+The code extracts thermodynamic data from output files, stores it in a txt file, and displays it on the terminal in the format below.
 ```
 Current file: bh3.out
 Temperature used in calculation: 298.15
